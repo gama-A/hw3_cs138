@@ -4,7 +4,7 @@ accepting: {q1,q3,q4}
 
 q0 (a -> q1) (b -> q5) (c -> q5)
 q1 (a -> q5) (b -> q2) (c -> q3)
-q2 (a -> q5) (b -> q4) (c -> q3)
+q2 (a -> q5) (b -> q4) (c -> q5)
 q3 (a -> q5) (b -> q5) (c -> q3)
 q4 (a -> q5) (b -> q2) (c -> q5)
 q5 (a -> q5) (b -> q5) (c -> q5)
